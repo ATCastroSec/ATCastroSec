@@ -3,7 +3,7 @@
 
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a current Computer Science Student at Chaffey Community College who will be transfering to Cal State San Bernardino for Fall of 2024. I will be switching over to the CyberSecurity field. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
