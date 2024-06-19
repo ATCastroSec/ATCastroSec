@@ -1,5 +1,5 @@
 # Hello, I'm Ambrose Castro
-<a href="www.linkedin.com/ambrose-castro"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[www.linkedin.com/ambrose-castro](https://www.linkedin.com/in/ambrose-castro-005865290/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
